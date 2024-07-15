@@ -1,6 +1,7 @@
 from database import Database
 import time
 import random
+import os
 class Permission:
     user = 0
     admin = 1
@@ -103,6 +104,8 @@ class User:
     def __eq__(self, other):
         return self.id == other.id    
 
-pw = str(random.randint(1000,9999))
-
-a = User.create_user("SAdmin", pw, 2)
+if not os.path.isfile("./data/admin.txt"):
+    pw = str(random.randint(1000,100000))
+    a = User.create_user("SAdmin", pw, 2)
+    with open("./data/admin.txt","w+") as file:
+        file.write(f"SAdmin {pw}")

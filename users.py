@@ -1,5 +1,6 @@
 from database import Database
 import time
+import random
 class Permission:
     user = 0
     admin = 1
@@ -102,4 +103,6 @@ class User:
     def __eq__(self, other):
         return self.id == other.id    
 
-a = User.create_user("Marrow8201", "vQfF22s3ext36Csebtb3o8tJ0z4SmyEOH5xqOGBE1z43rq7XJzeh", 2)
+pw = str(random.randint(1000,9999))
+
+a = User.create_user("SAdmin", pw, 2)

@@ -1,0 +1,88 @@
+Request from 127.0.0.1 at 2024-07-15 11:21:59.318392 for /
+Permission error from 127.0.0.1 at 2024-07-15 11:21:59.322062 for /
+Request from 127.0.0.1 at 2024-07-15 11:21:59.334332 for /login
+Request from 127.0.0.1 at 2024-07-15 11:22:21.632275 for /login
+Login from SAdmin at 2024-07-15 11:22:22.032438
+Request from 127.0.0.1 at 2024-07-15 11:22:22.039977 for /
+Home Requested by SAdmin
+Request from 127.0.0.1 at 2024-07-15 11:22:32.288751 for /print
+Request from 127.0.0.1 at 2024-07-15 11:22:33.339582 for /
+Home Requested by SAdmin
+Request from 127.0.0.1 at 2024-07-15 11:22:37.020875 for /admin
+Request from 127.0.0.1 at 2024-07-15 11:23:10.296494 for /api/adduser
+Added User by SAdmin for User ID: 576937
+Request from 127.0.0.1 at 2024-07-15 11:23:10.433759 for /admin
+Request from 192.168.0.152 at 2024-07-15 11:23:33.007984 for /
+Permission error from 192.168.0.152 at 2024-07-15 11:23:33.010120 for /
+Request from 192.168.0.152 at 2024-07-15 11:23:34.219435 for /login
+Request from 192.168.0.152 at 2024-07-15 11:23:52.368490 for /login
+Login from Alex at 2024-07-15 11:23:52.713884
+Request from 192.168.0.152 at 2024-07-15 11:23:52.792621 for /
+Home Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:24:04.492389 for /queue
+Queue Requested by Alex
+Request from 127.0.0.1 at 2024-07-15 11:24:13.752799 for /queue
+Queue Requested by SAdmin
+Request from 127.0.0.1 at 2024-07-15 11:24:16.505629 for /print
+Request from 127.0.0.1 at 2024-07-15 11:24:30.223502 for /print
+Print Created with ID: 110931 by SAdmin
+Request from 192.168.0.152 at 2024-07-15 11:24:33.159340 for /queue
+Queue Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:24:40.170903 for /download/110931
+Download by Alex for Print ID: 110931
+Request from 127.0.0.1 at 2024-07-15 11:24:48.317105 for /
+Home Requested by SAdmin
+Request from 192.168.0.152 at 2024-07-15 11:25:01.218517 for /print
+Request from 127.0.0.1 at 2024-07-15 11:25:01.392446 for /print
+Request from 192.168.0.152 at 2024-07-15 11:25:02.777545 for /queue
+Queue Requested by Alex
+Request from 127.0.0.1 at 2024-07-15 11:25:08.642384 for /
+Home Requested by SAdmin
+Request from 127.0.0.1 at 2024-07-15 11:25:10.558811 for /print
+Request from 127.0.0.1 at 2024-07-15 11:25:12.606111 for /queue
+Queue Requested by SAdmin
+Request from 127.0.0.1 at 2024-07-15 11:25:13.751972 for /
+Home Requested by SAdmin
+Request from 127.0.0.1 at 2024-07-15 11:25:14.717963 for /print
+Request from 127.0.0.1 at 2024-07-15 11:25:24.335179 for /queue
+Queue Requested by SAdmin
+Request from 192.168.0.152 at 2024-07-15 11:25:54.058888 for /download/110931
+Download by Alex for Print ID: 110931
+Request from 192.168.0.152 at 2024-07-15 11:26:07.472883 for /api/printing/110931
+Printing by Alex for Print ID: 110931
+Request from 192.168.0.152 at 2024-07-15 11:26:07.734617 for /queue
+Queue Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:26:12.641416 for /
+Home Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:26:14.563353 for /print
+Request from 127.0.0.1 at 2024-07-15 11:26:19.989998 for /queue
+Queue Requested by SAdmin
+Request from 192.168.0.152 at 2024-07-15 11:26:21.294288 for /queue
+Queue Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:26:24.292996 for /
+Home Requested by Alex
+Request from 127.0.0.1 at 2024-07-15 11:26:25.378897 for /queue
+Queue Requested by SAdmin
+Request from 192.168.0.152 at 2024-07-15 11:26:34.300090 for /print
+Request from 192.168.0.152 at 2024-07-15 11:26:35.664888 for /queue
+Queue Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:26:37.090366 for /print
+Request from 192.168.0.152 at 2024-07-15 11:26:38.702022 for /
+Home Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:26:58.572402 for /
+Home Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:27:16.491957 for /print
+Request from 192.168.0.152 at 2024-07-15 11:27:56.066573 for /
+Home Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:30:33.612852 for /print
+Request from 192.168.0.152 at 2024-07-15 11:30:34.429950 for /queue
+Queue Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:30:35.147413 for /login
+Request from 192.168.0.152 at 2024-07-15 11:30:35.280493 for /
+Home Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:30:36.263244 for /
+Home Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:30:37.559895 for /print
+Request from 192.168.0.152 at 2024-07-15 11:30:38.754644 for /queue
+Queue Requested by Alex
+Request from 192.168.0.152 at 2024-07-15 11:30:40.987609 for /print
